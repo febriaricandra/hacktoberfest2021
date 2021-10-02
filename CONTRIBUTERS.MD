@@ -87,3 +87,4 @@
 | Ishaan Gupta              | [@ishaangupta-YB](https://github.com/ishaangupta-YB)     |         0        |
 | thecoderkd           | [@thecoderkd](https://github.com/thecoderkd)                  |         1        |
 | Gabriel Santos       | [@gabriel](https://github.com/gabriel-github)                 |         1        |
+| Febriari Candra G    | [@febriaricandra](https://github.com/febriaricandra)          |         1        |
